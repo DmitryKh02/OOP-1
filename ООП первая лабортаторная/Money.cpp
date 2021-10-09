@@ -7,6 +7,8 @@ using std::cin;
 using std::cout;
 using std::string;
 
+///
+
 Money::Money(long x, unsigned short y)
 {
 	rubles = x;
